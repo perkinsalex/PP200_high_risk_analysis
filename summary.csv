@@ -1,0 +1,7 @@
+climate,threshold,homes_high_risk,built_2006+,pct_of_high_risk
+2011,score>=8 (rps>=0.5),189959,23937,12.6
+2011,score>=9 (rps>=1),62013,7783,12.6
+2011,score=10 (rps>=3),2488,404,16.2
+2047,score>=8 (rps>=0.5),369924,53296,14.4
+2047,score>=9 (rps>=1),169899,22458,13.2
+2047,score=10 (rps>=3),21434,3217,15.0
